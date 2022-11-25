@@ -24,7 +24,8 @@ PATHS = {
         "anime": f"{DIR}/anime/",
         "cartoon": f"{DIR}/cartoons/",
         "cartoon-movie": f"{DIR}/cartoon-movies/",
-        "anime-movie": f"{DIR}/anime-movies/"
+        "anime-movie": f"{DIR}/anime-movies/",
+        "special": f"{DIR}/specials/"
 }
 
 def main():
