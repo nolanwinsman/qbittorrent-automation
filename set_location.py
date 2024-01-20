@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Script that puts torrent files in the proper folders using Torrent Tags
 # so movie torrents would be put in the movies folder, ect.
 
